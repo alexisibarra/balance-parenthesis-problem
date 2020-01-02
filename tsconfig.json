@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esNext",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "dist"
+  },
+  "exclude": ["src/**/*.spec.ts"]
+}

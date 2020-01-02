@@ -1,0 +1,30 @@
+{
+  "name": "balance-parenthesis-problem",
+  "version": "1.0.0",
+  "description": "Balance Parenthesis Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "pretry": "tsc",
+    "start": "node dist/checkBalancedBrackets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisibarra/balance-parenthesis-problem.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "awesome-typescript-loader": "3.4.1",
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
+  },
+  "author": "Alexis Ibarra",
+  "license": "MIT"
+}
