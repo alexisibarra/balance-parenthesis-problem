@@ -4,8 +4,7 @@ Balance Parenthesis Problem</h1>
 
 ---
 
-[Setup and install](#setup-and-install) | [Tasks](#tasks) |
-[Resources](#resources)
+[Setup and install](#setup-and-install) | [Tasks](#tasks)
 
 ## Setup and install
 
@@ -33,7 +32,7 @@ you'll need to `cd` into the directory that you cloned the repo into and run
 some quick tasks:
 
 ```
-cd <typescript-basics-seed>
+cd <balance-parenthesis-problem>
 yarn install
 # OR
 npm install
